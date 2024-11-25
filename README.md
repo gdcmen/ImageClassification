@@ -15,3 +15,6 @@ The code includes preprocessing steps, model training, and prediction functional
 - NumPy
 - Matplotlib
 - OpenCV (for image handling)
+
+## Other
+- If you want to have access to the pictures dataset, please contact me @ guillermodecelis@gmail.com
